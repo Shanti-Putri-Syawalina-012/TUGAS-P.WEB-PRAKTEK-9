@@ -2,6 +2,6 @@
 $host		="localhost";
 $user		="root";
 $password	="";
-$database	="db_users";
+$database	="db_siswa";
 $conn		=mysqli_connect($host, $user, $password, $database);
 ?>
